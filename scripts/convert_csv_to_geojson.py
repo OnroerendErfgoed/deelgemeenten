@@ -29,4 +29,4 @@ with open('../data/csv/deelgemeenten.csv', 'r') as csvfile:
         }
         data['features'].append(f)
 
-json.dump(data, jsonfile)
+json.dump(data, jsonfile, indent=4, sort_keys=True)
