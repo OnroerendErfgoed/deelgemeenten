@@ -1,5 +1,6 @@
-Deelgemeenten
-=============
+# Deelgemeenten
+
+[![Open Data](https://assets.okfn.org/images/ok_buttons/od_80x15_blue.png)](http://opendefinition.org/)
 
 This repository contains a dataset of `deelgemeenten` as used by [Flanders
 Heritage Agency](https://www.onroerenderfgoed.be). In our (unofficial)
