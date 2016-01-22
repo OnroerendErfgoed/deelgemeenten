@@ -3,13 +3,16 @@
 import csv
 import json
 
+geojsonfile = open('../data/json/deelgemeente.geojson', 'w')
 jsonfile = open('../data/json/deelgemeente.json', 'w')
 
-data = {
+geojsondata = {
     "type": "FeatureCollection",
     "features": [
     ]
 }
+
+jsondata = []
 
 with open('../data/csv/deelgemeenten.csv', 'r') as csvfile:
     reader = csv.reader(csvfile, delimiter=';', quotechar='"')
@@ -18,15 +21,18 @@ with open('../data/csv/deelgemeenten.csv', 'r') as csvfile:
         if headers == []:
             headers = row
             continue
+        props= {
+            headers[0]: row[0],
+            headers[1]: row[1],
+            headers[2]: row[2],
+            headers[3]: row[3]
+        }
+        jsondata.append(props)
         f = {
             "type": "Feature",
-            "properties": {
-                headers[0]: row[0],
-                headers[1]: row[1],
-                headers[2]: row[2],
-                headers[3]: row[3]
-            }
+            "properties": props
         }
-        data['features'].append(f)
+        geojsondata['features'].append(f)
 
-json.dump(data, jsonfile, indent=4, sort_keys=True)
+json.dump(geojsondata, geojsonfile, indent=4, sort_keys=True)
+json.dump(jsondata, jsonfile, indent=4, sort_keys=True)
