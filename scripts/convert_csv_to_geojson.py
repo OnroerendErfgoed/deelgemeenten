@@ -3,8 +3,8 @@
 import csv
 import json
 
-geojsonfile = open('../data/json/deelgemeente.geojson', 'w')
-jsonfile = open('../data/json/deelgemeente.json', 'w')
+geojsonfile = open('../data/json/deelgemeenten.geojson', 'w')
+jsonfile = open('../data/json/deelgemeenten.json', 'w')
 
 geojsondata = {
     "type": "FeatureCollection",

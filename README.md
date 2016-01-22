@@ -2,6 +2,8 @@
 
 [![Open Data](https://assets.okfn.org/images/ok_buttons/od_80x15_blue.png)](http://opendefinition.org/)
 
+## Introduction
+
 This repository contains a dataset of `deelgemeenten` as used by [Flanders
 Heritage Agency](https://www.onroerenderfgoed.be). In our (unofficial)
 terminology, a `deelgemeente` (sub-municipality) is a part of a current day 
@@ -13,8 +15,11 @@ It is just the list we use in our day to dat operations. You are welcome to use
 it, but please do NOT consider this an official list of `deelgemeenten`. As far
 as we know such a list does not exist either.
 
-Two files are provided. Both provide the same data, but in different formats.
+## Formats
+
+Three files are provided. Both provide the same data, but in different formats.
 The first, `deelgemeenten.csv` provides the data in `csv`format. The second,
-`deelgemeente.json` provides it in `geojson` format. Although at the moment the
+`deelgemeenten.json` provides it in a simple `json` format. The third file,
+`deelgemeenten.geojson` provides it in `geojson` format. Although at the moment the
 geojson files contains no geographic information, it is possible that this will
 be added later on.
