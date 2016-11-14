@@ -1416,12 +1416,6 @@
         "provincie_id": "20001"
     }, 
     {
-        "deelgemeente_id": "23097A", 
-        "deelgemeente_naam": "Roosdaal", 
-        "gemeente_id": "23097", 
-        "provincie_id": "20001"
-    }, 
-    {
         "deelgemeente_id": "23097B", 
         "deelgemeente_naam": "Borchtlombeek", 
         "gemeente_id": "23097", 
@@ -4609,7 +4603,7 @@
     }, 
     {
         "deelgemeente_id": "44012A", 
-        "deelgemeente_naam": "De pinte", 
+        "deelgemeente_naam": "De Pinte", 
         "gemeente_id": "44012", 
         "provincie_id": "40000"
     }, 
