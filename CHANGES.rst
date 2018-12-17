@@ -1,7 +1,8 @@
 v0.3.0 (17-12-2018)
 -------------------
 
-* Updated to match the new fusiegemeenten in Flanders.
+* Updated to match the new fusiegemeenten in Flanders. A file was also added that
+  highlights what was changed.
 
 v0.2.0 (14-11-2016)
 -------------------
