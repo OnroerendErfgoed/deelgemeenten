@@ -6772,7 +6772,7 @@
             "properties": {
                 "deelgemeente_id": "44084A", 
                 "deelgemeente_naam": "Aalter", 
-                "gemeente_id": "44001", 
+                "gemeente_id": "44084", 
                 "provincie_id": "40000"
             }, 
             "type": "Feature"
@@ -6781,7 +6781,7 @@
             "properties": {
                 "deelgemeente_id": "44084B", 
                 "deelgemeente_naam": "Bellem", 
-                "gemeente_id": "44001", 
+                "gemeente_id": "44084", 
                 "provincie_id": "40000"
             }, 
             "type": "Feature"
@@ -6790,7 +6790,7 @@
             "properties": {
                 "deelgemeente_id": "44084C", 
                 "deelgemeente_naam": "Lotenhulle", 
-                "gemeente_id": "44001", 
+                "gemeente_id": "44084", 
                 "provincie_id": "40000"
             }, 
             "type": "Feature"
@@ -6799,25 +6799,25 @@
             "properties": {
                 "deelgemeente_id": "44084D", 
                 "deelgemeente_naam": "Poeke", 
-                "gemeente_id": "44001", 
+                "gemeente_id": "44084", 
                 "provincie_id": "40000"
             }, 
             "type": "Feature"
         }, 
         {
             "properties": {
-                "deelgemeente_id": "44029A", 
+                "deelgemeente_id": "44084E", 
                 "deelgemeente_naam": "Knesselare", 
-                "gemeente_id": "44029", 
+                "gemeente_id": "44084", 
                 "provincie_id": "40000"
             }, 
             "type": "Feature"
         }, 
         {
             "properties": {
-                "deelgemeente_id": "44029B", 
+                "deelgemeente_id": "44084F", 
                 "deelgemeente_naam": "Ursel", 
-                "gemeente_id": "44029", 
+                "gemeente_id": "44084", 
                 "provincie_id": "40000"
             }, 
             "type": "Feature"
