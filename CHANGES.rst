@@ -1,3 +1,8 @@
+v0.3.1 (03-01-2019)
+-------------------
+
+* Added Sint-Huibrechts-Lille as deelgemeente (72043C) of Pelt
+
 v0.3.0 (17-12-2018)
 -------------------
 
