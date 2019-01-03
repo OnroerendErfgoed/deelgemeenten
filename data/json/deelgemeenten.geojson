@@ -9047,15 +9047,6 @@
         }, 
         {
             "properties": {
-                "deelgemeente_id": "72025B", 
-                "deelgemeente_naam": "Sint-Huibrechts-Lille", 
-                "gemeente_id": "72025", 
-                "provincie_id": "70000"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "properties": {
                 "deelgemeente_id": "72030A", 
                 "deelgemeente_naam": "Peer", 
                 "gemeente_id": "72030", 
@@ -9256,6 +9247,15 @@
             "properties": {
                 "deelgemeente_id": "72043B", 
                 "deelgemeente_naam": "Overpelt", 
+                "gemeente_id": "72043", 
+                "provincie_id": "70000"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "properties": {
+                "deelgemeente_id": "72043C", 
+                "deelgemeente_naam": "Sint-Huibrechts-Lille", 
                 "gemeente_id": "72043", 
                 "provincie_id": "70000"
             }, 
