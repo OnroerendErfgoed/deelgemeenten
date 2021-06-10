@@ -1,3 +1,9 @@
+v0.4.0 (10-06-2021)
+-------------------
+
+* *[BC break]* Change the CSV delimiter symbol from `;` to `,` to have a more standards
+  compliant CSV file.
+
 v0.3.1 (03-01-2019)
 -------------------
 

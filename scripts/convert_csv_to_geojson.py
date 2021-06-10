@@ -15,7 +15,7 @@ geojsondata = {
 jsondata = []
 
 with open('../data/csv/deelgemeenten.csv', 'r') as csvfile:
-    reader = csv.reader(csvfile, delimiter=';', quotechar='"')
+    reader = csv.reader(csvfile, quotechar='"')
     headers = []
     for row in reader:
         if headers == []:
