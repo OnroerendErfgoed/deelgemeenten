@@ -25,7 +25,9 @@ with open('../data/csv/deelgemeenten.csv', 'r') as csvfile:
             headers[0]: row[0],
             headers[1]: row[1],
             headers[2]: row[2],
-            headers[3]: row[3]
+            headers[3]: row[3],
+            headers[4]: row[4],
+            headers[5]: row[5]
         }
         jsondata.append(props)
         f = {

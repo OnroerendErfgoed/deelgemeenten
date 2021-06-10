@@ -3,6 +3,8 @@ v0.4.0 (10-06-2021)
 
 * *[BC break]* Change the CSV delimiter symbol from `;` to `,` to have a more standards
   compliant CSV file. (#5)
+* Add names of Provinces and Municipalities to make the list easier to use for
+  end-users.
 
 v0.3.1 (03-01-2019)
 -------------------
