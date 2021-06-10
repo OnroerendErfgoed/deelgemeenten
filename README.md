@@ -11,9 +11,12 @@ terminology, a `deelgemeente` (sub-municipality) is a part of a current day
 Most of them were a `gemeente` before the mergers that took place during the
 seventies, but some of them were gone even before that time. As such this list
 reflects no special point in time and has no historical significance whatsoever.
-It is just the list we use in our day to dat operations. You are welcome to use
-it, but please do NOT consider this an official list of `deelgemeenten`. As far
-as we know such a list does not exist either.
+It is just the list we use in our day to day operations. Most importantly, the 
+[Inventaris Onroerend Erfgoed](https://inventaris.onroerenderfgoed.be) uses 
+this list for indexing erfgoedobjecten, aanduidingsobjecten, waarnemingen, 
+gebeurtenissen and thema's. You are welcome to use it, but please do **NOT** consider 
+this an official list of `deelgemeenten`. As far as we know such a list does not 
+exist either.
 
 ## Formats
 
