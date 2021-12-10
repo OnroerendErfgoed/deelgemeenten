@@ -17,6 +17,7 @@ authors:
   - given-names: Leen
     family-names: Meganck
     email: leen.meganck@vlaanderen.be
+    affiliation: Flanders Heritage Agency
     orcid: 'https://orcid.org/0000-0002-9483-0851'
 abstract: >-
     This repository contains a dataset of `deelgemeenten` as used by Flanders
@@ -28,10 +29,11 @@ abstract: >-
     Heritage software and databases that deals with this topic.
 keywords:
   - Vlaanderen
+  - onroerend erfgoed
   - gemeenten
   - deelgemeenten
   - open data
 license:
   - CC-BY-4.0
-version: 0.4.2
+version: 0.4.3
 date-released: "2021-12-10"
