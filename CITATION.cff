@@ -17,9 +17,15 @@ authors:
   - given-name: Leen
     family-names: Meganck
     email: leen.meganck@vlaanderen.be
+    orcid: 'https://orcid.org/0000-0002-9483-0851'
 abstract: >-
-    This repository contains a dataset of `deelgemeenten` as used by Flanders Heritage Agency. In our (unofficial) terminology, a `deelgemeente` (sub-  municipality) is a part of a current day `gemeente` (municipality) that historically used to be somewhat independent.
-    Most of them were a `gemeente` before the mergers that took place during the seventies, but some of them were gone even before that time. As such this list reflects no special point in time and has no historical significance whatsoever.
+    This repository contains a dataset of `deelgemeenten` as used by Flanders
+    Heritage Agency. In our (unofficial) terminology, a `deelgemeente` (sub-municipality) is a part of a current day `gemeente` (municipality) that historically used to be somewhat independent.
+    Most of them were a `gemeente` before the mergers that took place during
+    the seventies, but some of them were gone even before that time. As such
+    this list reflects no special point in time and has no historical
+    significance whatsoever. It is the list that is used in all Flanders
+    Heritage software and databases that deals with this topic.
 keywords:
   - Vlaanderen
   - gemeenten
