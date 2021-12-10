@@ -1,7 +1,7 @@
 # Deelgemeenten
 
 [![Open Data](https://assets.okfn.org/images/ok_buttons/od_80x15_blue.png)](http://opendefinition.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4923098.svg)](https://doi.org/10.5281/zenodo.4923098)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4923097.svg)](https://doi.org/10.5281/zenodo.4923097)
 
 
 ## Introduction
