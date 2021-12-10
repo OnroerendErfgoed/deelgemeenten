@@ -14,7 +14,7 @@ authors:
     family-names: Goessens
     email: bram.goessens@vlaanderen.be
     affiliation: Flanders Heritage Agency
-  - given-name: Leen
+  - given-names: Leen
     family-names: Meganck
     email: leen.meganck@vlaanderen.be
     orcid: 'https://orcid.org/0000-0002-9483-0851'
@@ -33,5 +33,5 @@ keywords:
   - open data
 license:
   - CC-BY-4.0
-version: 0.4.0
-date-released: "2021-06-10"
+version: 0.4.2
+date-released: "2021-12-10"
