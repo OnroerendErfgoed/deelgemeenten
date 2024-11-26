@@ -27,11 +27,9 @@ with CSV_FILE_PATH.open() as csvfile:
     data = list(reader)
 
 for d in data:
-    provincie = adressenregister.get_provincie_by_niscode(d["provincie_id"])
-    if provincie:
+    if provincie := adressenregister.get_provincie_by_niscode(d["provincie_id"]):
         d["provincie_naam"] = provincie.naam
-    gemeente = adressenregister.get_gemeente_by_niscode(d["gemeente_id"])
-    if gemeente:
+    if gemeente := adressenregister.get_gemeente_by_niscode(d["gemeente_id"]):
         d["gemeente_naam"] = gemeente.naam()
 
 with CSV_FILE_PATH.open(mode="w", newline="\n") as csvfile:
