@@ -1,3 +1,9 @@
+v0.5.0 (25-11-2024)
+-------------------
+
+* Gemeentefusies 2025 (#9)
+* Update add_names_to_csv script, use Adressenregister instead of CRABpy (#10)
+
 v0.4.3 (10-12-2021)
 -------------------
 

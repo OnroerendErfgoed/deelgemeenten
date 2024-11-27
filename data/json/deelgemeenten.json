@@ -96,6 +96,14 @@
         "provincie_naam": "Antwerpen"
     },
     {
+        "deelgemeente_id": "11002W",
+        "deelgemeente_naam": "Borsbeek",
+        "gemeente_id": "11002",
+        "gemeente_naam": "Antwerpen",
+        "provincie_id": "10000",
+        "provincie_naam": "Antwerpen"
+    },
+    {
         "deelgemeente_id": "11004A",
         "deelgemeente_naam": "Boechout",
         "gemeente_id": "11004",
@@ -116,14 +124,6 @@
         "deelgemeente_naam": "Boom",
         "gemeente_id": "11005",
         "gemeente_naam": "Boom",
-        "provincie_id": "10000",
-        "provincie_naam": "Antwerpen"
-    },
-    {
-        "deelgemeente_id": "11007A",
-        "deelgemeente_naam": "Borsbeek",
-        "gemeente_id": "11007",
-        "gemeente_naam": "Borsbeek",
         "provincie_id": "10000",
         "provincie_naam": "Antwerpen"
     },
@@ -436,22 +436,6 @@
         "deelgemeente_naam": "Halle",
         "gemeente_id": "11055",
         "gemeente_naam": "Zoersel",
-        "provincie_id": "10000",
-        "provincie_naam": "Antwerpen"
-    },
-    {
-        "deelgemeente_id": "11056A",
-        "deelgemeente_naam": "Zwijndrecht",
-        "gemeente_id": "11056",
-        "gemeente_naam": "Zwijndrecht",
-        "provincie_id": "10000",
-        "provincie_naam": "Antwerpen"
-    },
-    {
-        "deelgemeente_id": "11056B",
-        "deelgemeente_naam": "Burcht",
-        "gemeente_id": "11056",
-        "gemeente_naam": "Zwijndrecht",
         "provincie_id": "10000",
         "provincie_naam": "Antwerpen"
     },
@@ -1352,58 +1336,82 @@
         "provincie_naam": "Vlaams-Brabant"
     },
     {
-        "deelgemeente_id": "23023A",
+        "deelgemeente_id": "23106A",
         "deelgemeente_naam": "Galmaarden",
-        "gemeente_id": "23023",
-        "gemeente_naam": "Galmaarden",
+        "gemeente_id": "23106",
+        "gemeente_naam": "Pajottegem",
         "provincie_id": "20001",
         "provincie_naam": "Vlaams-Brabant"
     },
     {
-        "deelgemeente_id": "23023B",
+        "deelgemeente_id": "23106B",
         "deelgemeente_naam": "Vollezele",
-        "gemeente_id": "23023",
-        "gemeente_naam": "Galmaarden",
+        "gemeente_id": "23106",
+        "gemeente_naam": "Pajottegem",
         "provincie_id": "20001",
         "provincie_naam": "Vlaams-Brabant"
     },
     {
-        "deelgemeente_id": "23023C",
+        "deelgemeente_id": "23106C",
         "deelgemeente_naam": "Tollembeek",
-        "gemeente_id": "23023",
-        "gemeente_naam": "Galmaarden",
+        "gemeente_id": "23106",
+        "gemeente_naam": "Pajottegem",
         "provincie_id": "20001",
         "provincie_naam": "Vlaams-Brabant"
     },
     {
-        "deelgemeente_id": "23024A",
+        "deelgemeente_id": "23106D",
         "deelgemeente_naam": "Gooik",
-        "gemeente_id": "23024",
-        "gemeente_naam": "Gooik",
+        "gemeente_id": "23106",
+        "gemeente_naam": "Pajottegem",
         "provincie_id": "20001",
         "provincie_naam": "Vlaams-Brabant"
     },
     {
-        "deelgemeente_id": "23024B",
+        "deelgemeente_id": "23106E",
         "deelgemeente_naam": "Leerbeek",
-        "gemeente_id": "23024",
-        "gemeente_naam": "Gooik",
+        "gemeente_id": "23106",
+        "gemeente_naam": "Pajottegem",
         "provincie_id": "20001",
         "provincie_naam": "Vlaams-Brabant"
     },
     {
-        "deelgemeente_id": "23024C",
+        "deelgemeente_id": "23106F",
         "deelgemeente_naam": "Oetingen",
-        "gemeente_id": "23024",
-        "gemeente_naam": "Gooik",
+        "gemeente_id": "23106",
+        "gemeente_naam": "Pajottegem",
         "provincie_id": "20001",
         "provincie_naam": "Vlaams-Brabant"
     },
     {
-        "deelgemeente_id": "23024D",
+        "deelgemeente_id": "23106G",
         "deelgemeente_naam": "Kester",
-        "gemeente_id": "23024",
-        "gemeente_naam": "Gooik",
+        "gemeente_id": "23106",
+        "gemeente_naam": "Pajottegem",
+        "provincie_id": "20001",
+        "provincie_naam": "Vlaams-Brabant"
+    },
+    {
+        "deelgemeente_id": "23106H",
+        "deelgemeente_naam": "Herne",
+        "gemeente_id": "23106",
+        "gemeente_naam": "Pajottegem",
+        "provincie_id": "20001",
+        "provincie_naam": "Vlaams-Brabant"
+    },
+    {
+        "deelgemeente_id": "23106I",
+        "deelgemeente_naam": "Herfelingen",
+        "gemeente_id": "23106",
+        "gemeente_naam": "Pajottegem",
+        "provincie_id": "20001",
+        "provincie_naam": "Vlaams-Brabant"
+    },
+    {
+        "deelgemeente_id": "23106J",
+        "deelgemeente_naam": "Sint-Pieters-Kapelle",
+        "gemeente_id": "23106",
+        "gemeente_naam": "Pajottegem",
         "provincie_id": "20001",
         "provincie_naam": "Vlaams-Brabant"
     },
@@ -1460,30 +1468,6 @@
         "deelgemeente_naam": "Lembeek",
         "gemeente_id": "23027",
         "gemeente_naam": "Halle",
-        "provincie_id": "20001",
-        "provincie_naam": "Vlaams-Brabant"
-    },
-    {
-        "deelgemeente_id": "23032A",
-        "deelgemeente_naam": "Herne",
-        "gemeente_id": "23032",
-        "gemeente_naam": "Herne",
-        "provincie_id": "20001",
-        "provincie_naam": "Vlaams-Brabant"
-    },
-    {
-        "deelgemeente_id": "23032B",
-        "deelgemeente_naam": "Herfelingen",
-        "gemeente_id": "23032",
-        "gemeente_naam": "Herne",
-        "provincie_id": "20001",
-        "provincie_naam": "Vlaams-Brabant"
-    },
-    {
-        "deelgemeente_id": "23032C",
-        "deelgemeente_naam": "Sint-Pieters-Kapelle",
-        "gemeente_id": "23032",
-        "gemeente_naam": "Herne",
         "provincie_id": "20001",
         "provincie_naam": "Vlaams-Brabant"
     },
@@ -4664,10 +4648,42 @@
         "provincie_naam": "West-Vlaanderen"
     },
     {
-        "deelgemeente_id": "37007A",
+        "deelgemeente_id": "37022A",
         "deelgemeente_naam": "Meulebeke",
-        "gemeente_id": "37007",
-        "gemeente_naam": "Meulebeke",
+        "gemeente_id": "37022",
+        "gemeente_naam": "Tielt",
+        "provincie_id": "30000",
+        "provincie_naam": "West-Vlaanderen"
+    },
+    {
+        "deelgemeente_id": "37022B",
+        "deelgemeente_naam": "Tielt",
+        "gemeente_id": "37022",
+        "gemeente_naam": "Tielt",
+        "provincie_id": "30000",
+        "provincie_naam": "West-Vlaanderen"
+    },
+    {
+        "deelgemeente_id": "37022C",
+        "deelgemeente_naam": "Schuiferskapelle",
+        "gemeente_id": "37022",
+        "gemeente_naam": "Tielt",
+        "provincie_id": "30000",
+        "provincie_naam": "West-Vlaanderen"
+    },
+    {
+        "deelgemeente_id": "37022D",
+        "deelgemeente_naam": "Kanegem",
+        "gemeente_id": "37022",
+        "gemeente_naam": "Tielt",
+        "provincie_id": "30000",
+        "provincie_naam": "West-Vlaanderen"
+    },
+    {
+        "deelgemeente_id": "37022E",
+        "deelgemeente_naam": "Aarsele",
+        "gemeente_id": "37022",
+        "gemeente_naam": "Tielt",
         "provincie_id": "30000",
         "provincie_naam": "West-Vlaanderen"
     },
@@ -4696,46 +4712,6 @@
         "provincie_naam": "West-Vlaanderen"
     },
     {
-        "deelgemeente_id": "37012A",
-        "deelgemeente_naam": "Ruiselede",
-        "gemeente_id": "37012",
-        "gemeente_naam": "Ruiselede",
-        "provincie_id": "30000",
-        "provincie_naam": "West-Vlaanderen"
-    },
-    {
-        "deelgemeente_id": "37015A",
-        "deelgemeente_naam": "Tielt",
-        "gemeente_id": "37015",
-        "gemeente_naam": "Tielt",
-        "provincie_id": "30000",
-        "provincie_naam": "West-Vlaanderen"
-    },
-    {
-        "deelgemeente_id": "37015B",
-        "deelgemeente_naam": "Schuiferskapelle",
-        "gemeente_id": "37015",
-        "gemeente_naam": "Tielt",
-        "provincie_id": "30000",
-        "provincie_naam": "West-Vlaanderen"
-    },
-    {
-        "deelgemeente_id": "37015C",
-        "deelgemeente_naam": "Kanegem",
-        "gemeente_id": "37015",
-        "gemeente_naam": "Tielt",
-        "provincie_id": "30000",
-        "provincie_naam": "West-Vlaanderen"
-    },
-    {
-        "deelgemeente_id": "37015D",
-        "deelgemeente_naam": "Aarsele",
-        "gemeente_id": "37015",
-        "gemeente_naam": "Tielt",
-        "provincie_id": "30000",
-        "provincie_naam": "West-Vlaanderen"
-    },
-    {
         "deelgemeente_id": "37017A",
         "deelgemeente_naam": "Wielsbeke",
         "gemeente_id": "37017",
@@ -4760,17 +4736,25 @@
         "provincie_naam": "West-Vlaanderen"
     },
     {
-        "deelgemeente_id": "37018A",
+        "deelgemeente_id": "37021A",
         "deelgemeente_naam": "Wingene",
-        "gemeente_id": "37018",
+        "gemeente_id": "37021",
         "gemeente_naam": "Wingene",
         "provincie_id": "30000",
         "provincie_naam": "West-Vlaanderen"
     },
     {
-        "deelgemeente_id": "37018B",
+        "deelgemeente_id": "37021B",
         "deelgemeente_naam": "Zwevezele",
-        "gemeente_id": "37018",
+        "gemeente_id": "37021",
+        "gemeente_naam": "Wingene",
+        "provincie_id": "30000",
+        "provincie_naam": "West-Vlaanderen"
+    },
+    {
+        "deelgemeente_id": "37021C",
+        "deelgemeente_naam": "Ruiselede",
+        "gemeente_id": "37021",
         "gemeente_naam": "Wingene",
         "provincie_id": "30000",
         "provincie_naam": "West-Vlaanderen"
@@ -6200,22 +6184,6 @@
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44012A",
-        "deelgemeente_naam": "De Pinte",
-        "gemeente_id": "44012",
-        "gemeente_naam": "De Pinte",
-        "provincie_id": "40000",
-        "provincie_naam": "Oost-Vlaanderen"
-    },
-    {
-        "deelgemeente_id": "44012B",
-        "deelgemeente_naam": "Zevergem",
-        "gemeente_id": "44012",
-        "gemeente_naam": "De Pinte",
-        "provincie_id": "40000",
-        "provincie_naam": "Oost-Vlaanderen"
-    },
-    {
         "deelgemeente_id": "44013A",
         "deelgemeente_naam": "Destelbergen",
         "gemeente_id": "44013",
@@ -6424,122 +6392,138 @@
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44034A",
+        "deelgemeente_id": "44087A",
         "deelgemeente_naam": "Lochristi",
-        "gemeente_id": "44034",
+        "gemeente_id": "44087",
         "gemeente_naam": "Lochristi",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44034B",
+        "deelgemeente_id": "44087B",
         "deelgemeente_naam": "Zaffelare",
-        "gemeente_id": "44034",
+        "gemeente_id": "44087",
         "gemeente_naam": "Lochristi",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44034C",
+        "deelgemeente_id": "44087C",
         "deelgemeente_naam": "Zeveneken",
-        "gemeente_id": "44034",
+        "gemeente_id": "44087",
         "gemeente_naam": "Lochristi",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44034D",
+        "deelgemeente_id": "44087D",
         "deelgemeente_naam": "Beervelde",
-        "gemeente_id": "44034",
+        "gemeente_id": "44087",
         "gemeente_naam": "Lochristi",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44040A",
+        "deelgemeente_id": "44087E",
+        "deelgemeente_naam": "Wachtebeke",
+        "gemeente_id": "44087",
+        "gemeente_naam": "Lochristi",
+        "provincie_id": "40000",
+        "provincie_naam": "Oost-Vlaanderen"
+    },
+    {
+        "deelgemeente_id": "44088A",
         "deelgemeente_naam": "Melle",
-        "gemeente_id": "44040",
-        "gemeente_naam": "Melle",
+        "gemeente_id": "44088",
+        "gemeente_naam": "Merelbeke-Melle",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44040B",
+        "deelgemeente_id": "44088B",
         "deelgemeente_naam": "Gontrode",
-        "gemeente_id": "44040",
-        "gemeente_naam": "Melle",
+        "gemeente_id": "44088",
+        "gemeente_naam": "Merelbeke-Melle",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44043A",
+        "deelgemeente_id": "44088C",
         "deelgemeente_naam": "Merelbeke",
-        "gemeente_id": "44043",
-        "gemeente_naam": "Merelbeke",
+        "gemeente_id": "44088",
+        "gemeente_naam": "Merelbeke-Melle",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44043B",
+        "deelgemeente_id": "44088D",
         "deelgemeente_naam": "Bottelare",
-        "gemeente_id": "44043",
-        "gemeente_naam": "Merelbeke",
+        "gemeente_id": "44088",
+        "gemeente_naam": "Merelbeke-Melle",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44043C",
+        "deelgemeente_id": "44088E",
         "deelgemeente_naam": "Munte",
-        "gemeente_id": "44043",
-        "gemeente_naam": "Merelbeke",
+        "gemeente_id": "44088",
+        "gemeente_naam": "Merelbeke-Melle",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44043D",
+        "deelgemeente_id": "44088F",
         "deelgemeente_naam": "Schelderode",
-        "gemeente_id": "44043",
-        "gemeente_naam": "Merelbeke",
+        "gemeente_id": "44088",
+        "gemeente_naam": "Merelbeke-Melle",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44043E",
+        "deelgemeente_id": "44088G",
         "deelgemeente_naam": "Melsen",
-        "gemeente_id": "44043",
-        "gemeente_naam": "Merelbeke",
+        "gemeente_id": "44088",
+        "gemeente_naam": "Merelbeke-Melle",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44043F",
+        "deelgemeente_id": "44088H",
         "deelgemeente_naam": "Lemberge",
-        "gemeente_id": "44043",
-        "gemeente_naam": "Merelbeke",
+        "gemeente_id": "44088",
+        "gemeente_naam": "Merelbeke-Melle",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44045A",
-        "deelgemeente_naam": "Moerbeke",
-        "gemeente_id": "44045",
-        "gemeente_naam": "Moerbeke",
-        "provincie_id": "40000",
-        "provincie_naam": "Oost-Vlaanderen"
-    },
-    {
-        "deelgemeente_id": "44048A",
+        "deelgemeente_id": "44086A",
         "deelgemeente_naam": "Nazareth",
-        "gemeente_id": "44048",
-        "gemeente_naam": "Nazareth",
+        "gemeente_id": "44086",
+        "gemeente_naam": "Nazareth-De Pinte",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "44048B",
+        "deelgemeente_id": "44086B",
         "deelgemeente_naam": "Eke",
-        "gemeente_id": "44048",
-        "gemeente_naam": "Nazareth",
+        "gemeente_id": "44086",
+        "gemeente_naam": "Nazareth-De Pinte",
+        "provincie_id": "40000",
+        "provincie_naam": "Oost-Vlaanderen"
+    },
+    {
+        "deelgemeente_id": "44086C",
+        "deelgemeente_naam": "De Pinte",
+        "gemeente_id": "44086",
+        "gemeente_naam": "Nazareth-De Pinte",
+        "provincie_id": "40000",
+        "provincie_naam": "Oost-Vlaanderen"
+    },
+    {
+        "deelgemeente_id": "44086D",
+        "deelgemeente_naam": "Zevergem",
+        "gemeente_id": "44086",
+        "gemeente_naam": "Nazareth-De Pinte",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
@@ -6604,14 +6588,6 @@
         "deelgemeente_naam": "Deurle",
         "gemeente_id": "44064",
         "gemeente_naam": "Sint-Martens-Latem",
-        "provincie_id": "40000",
-        "provincie_naam": "Oost-Vlaanderen"
-    },
-    {
-        "deelgemeente_id": "44073A",
-        "deelgemeente_naam": "Wachtebeke",
-        "gemeente_id": "44073",
-        "gemeente_naam": "Wachtebeke",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
@@ -7160,113 +7136,137 @@
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46003A",
+        "deelgemeente_id": "46030A",
         "deelgemeente_naam": "Beveren",
-        "gemeente_id": "46003",
-        "gemeente_naam": "Beveren",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46003B",
+        "deelgemeente_id": "46030B",
         "deelgemeente_naam": "Vrasene",
-        "gemeente_id": "46003",
-        "gemeente_naam": "Beveren",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46003C",
+        "deelgemeente_id": "46030C",
         "deelgemeente_naam": "Verrebroek",
-        "gemeente_id": "46003",
-        "gemeente_naam": "Beveren",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46003D",
+        "deelgemeente_id": "46030D",
         "deelgemeente_naam": "Kieldrecht",
-        "gemeente_id": "46003",
-        "gemeente_naam": "Beveren",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46003E",
+        "deelgemeente_id": "46030E",
         "deelgemeente_naam": "Doel",
-        "gemeente_id": "46003",
-        "gemeente_naam": "Beveren",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46003F",
+        "deelgemeente_id": "46030F",
         "deelgemeente_naam": "Kallo",
-        "gemeente_id": "46003",
-        "gemeente_naam": "Beveren",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46003G",
+        "deelgemeente_id": "46030G",
         "deelgemeente_naam": "Melsele",
-        "gemeente_id": "46003",
-        "gemeente_naam": "Beveren",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46003H",
+        "deelgemeente_id": "46030H",
         "deelgemeente_naam": "Haasdonk",
-        "gemeente_id": "46003",
-        "gemeente_naam": "Beveren",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46013A",
+        "deelgemeente_id": "46030I",
         "deelgemeente_naam": "Kruibeke",
-        "gemeente_id": "46013",
-        "gemeente_naam": "Kruibeke",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46013B",
+        "deelgemeente_id": "46030J",
         "deelgemeente_naam": "Bazel",
-        "gemeente_id": "46013",
-        "gemeente_naam": "Kruibeke",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46013C",
+        "deelgemeente_id": "46030K",
         "deelgemeente_naam": "Rupelmonde",
-        "gemeente_id": "46013",
-        "gemeente_naam": "Kruibeke",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46014A",
+        "deelgemeente_id": "46030L",
+        "deelgemeente_naam": "Zwijndrecht",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
+        "provincie_id": "40000",
+        "provincie_naam": "Oost-Vlaanderen"
+    },
+    {
+        "deelgemeente_id": "46030M",
+        "deelgemeente_naam": "Burcht",
+        "gemeente_id": "46030",
+        "gemeente_naam": "Beveren-Kruibeke-Zwijndrecht",
+        "provincie_id": "40000",
+        "provincie_naam": "Oost-Vlaanderen"
+    },
+    {
+        "deelgemeente_id": "46029A",
         "deelgemeente_naam": "Lokeren",
-        "gemeente_id": "46014",
+        "gemeente_id": "46029",
         "gemeente_naam": "Lokeren",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46014B",
+        "deelgemeente_id": "46029B",
         "deelgemeente_naam": "Eksaarde",
-        "gemeente_id": "46014",
+        "gemeente_id": "46029",
         "gemeente_naam": "Lokeren",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
     },
     {
-        "deelgemeente_id": "46014C",
+        "deelgemeente_id": "46029C",
         "deelgemeente_naam": "Daknam",
-        "gemeente_id": "46014",
+        "gemeente_id": "46029",
+        "gemeente_naam": "Lokeren",
+        "provincie_id": "40000",
+        "provincie_naam": "Oost-Vlaanderen"
+    },
+    {
+        "deelgemeente_id": "46029D",
+        "deelgemeente_naam": "Moerbeke",
+        "gemeente_id": "46029",
         "gemeente_naam": "Lokeren",
         "provincie_id": "40000",
         "provincie_naam": "Oost-Vlaanderen"
@@ -7560,65 +7560,105 @@
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "71022A",
+        "deelgemeente_id": "71072A",
         "deelgemeente_naam": "Hasselt",
-        "gemeente_id": "71022",
+        "gemeente_id": "71072",
         "gemeente_naam": "Hasselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "71022B",
+        "deelgemeente_id": "71072B",
         "deelgemeente_naam": "Wimmertingen",
-        "gemeente_id": "71022",
+        "gemeente_id": "71072",
         "gemeente_naam": "Hasselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "71022C",
+        "deelgemeente_id": "71072C",
         "deelgemeente_naam": "Sint-Lambrechts-Herk",
-        "gemeente_id": "71022",
+        "gemeente_id": "71072",
         "gemeente_naam": "Hasselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "71022D",
+        "deelgemeente_id": "71072D",
         "deelgemeente_naam": "Kuringen",
-        "gemeente_id": "71022",
+        "gemeente_id": "71072",
         "gemeente_naam": "Hasselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "71022E",
+        "deelgemeente_id": "71072E",
         "deelgemeente_naam": "Stokrooie",
-        "gemeente_id": "71022",
+        "gemeente_id": "71072",
         "gemeente_naam": "Hasselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "71022F",
+        "deelgemeente_id": "71072F",
         "deelgemeente_naam": "Kermt",
-        "gemeente_id": "71022",
+        "gemeente_id": "71072",
         "gemeente_naam": "Hasselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "71022G",
+        "deelgemeente_id": "71072G",
         "deelgemeente_naam": "Spalbeek",
-        "gemeente_id": "71022",
+        "gemeente_id": "71072",
         "gemeente_naam": "Hasselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "71022H",
+        "deelgemeente_id": "71072H",
         "deelgemeente_naam": "Stevoort",
-        "gemeente_id": "71022",
+        "gemeente_id": "71072",
+        "gemeente_naam": "Hasselt",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "71072I",
+        "deelgemeente_naam": "Kortessem",
+        "gemeente_id": "71072",
+        "gemeente_naam": "Hasselt",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "71072J",
+        "deelgemeente_naam": "Wintershoven",
+        "gemeente_id": "71072",
+        "gemeente_naam": "Hasselt",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "71072K",
+        "deelgemeente_naam": "Vliermaalroot",
+        "gemeente_id": "71072",
+        "gemeente_naam": "Hasselt",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "71072L",
+        "deelgemeente_naam": "Vliermaal",
+        "gemeente_id": "71072",
+        "gemeente_naam": "Hasselt",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "71072M",
+        "deelgemeente_naam": "Guigoven",
+        "gemeente_id": "71072",
         "gemeente_naam": "Hasselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
@@ -7856,14 +7896,6 @@
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "71057A",
-        "deelgemeente_naam": "Tessenderlo",
-        "gemeente_id": "71057",
-        "gemeente_naam": "Tessenderlo",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
         "deelgemeente_id": "71066A",
         "deelgemeente_naam": "Zonhoven",
         "gemeente_id": "71066",
@@ -7880,18 +7912,26 @@
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "71069A",
+        "deelgemeente_id": "71071A",
         "deelgemeente_naam": "Oostham",
-        "gemeente_id": "71069",
-        "gemeente_naam": "Ham",
+        "gemeente_id": "71071",
+        "gemeente_naam": "Tessenderlo-Ham",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "71069B",
+        "deelgemeente_id": "71071B",
         "deelgemeente_naam": "Kwaadmechelen",
-        "gemeente_id": "71069",
-        "gemeente_naam": "Ham",
+        "gemeente_id": "71071",
+        "gemeente_naam": "Tessenderlo-Ham",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "71071C",
+        "deelgemeente_naam": "Tessenderlo",
+        "gemeente_id": "71071",
+        "gemeente_naam": "Tessenderlo-Ham",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
@@ -8240,210 +8280,402 @@
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006A",
+        "deelgemeente_id": "73110A",
         "deelgemeente_naam": "Bilzen",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006B",
+        "deelgemeente_id": "73110B",
         "deelgemeente_naam": "Beverst",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006C",
+        "deelgemeente_id": "73110C",
         "deelgemeente_naam": "Munsterbilzen",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006D",
+        "deelgemeente_id": "73110D",
         "deelgemeente_naam": "Waltwilder",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006E",
+        "deelgemeente_id": "73110E",
         "deelgemeente_naam": "Hoelbeek",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006F",
+        "deelgemeente_id": "73110F",
         "deelgemeente_naam": "Eigenbilzen",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006G",
+        "deelgemeente_id": "73110G",
         "deelgemeente_naam": "Mopertingen",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006H",
+        "deelgemeente_id": "73110H",
         "deelgemeente_naam": "Hees",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006J",
+        "deelgemeente_id": "73110J",
         "deelgemeente_naam": "Rosmeer",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006K",
+        "deelgemeente_id": "73110K",
         "deelgemeente_naam": "Kleine-spouwen",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006L",
+        "deelgemeente_id": "73110L",
         "deelgemeente_naam": "Grote-Spouwen",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006M",
+        "deelgemeente_id": "73110M",
         "deelgemeente_naam": "Rijkhoven",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73006N",
+        "deelgemeente_id": "73110N",
         "deelgemeente_naam": "Martenslinde",
-        "gemeente_id": "73006",
-        "gemeente_naam": "Bilzen",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009A",
+        "deelgemeente_id": "73110O",
+        "deelgemeente_naam": "Hoeselt",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73110P",
+        "deelgemeente_naam": "Werm",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73110Q",
+        "deelgemeente_naam": "Romershoven",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73110R",
+        "deelgemeente_naam": "Sint-Huibrechts-Hern",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73110S",
+        "deelgemeente_naam": "Schalkhoven",
+        "gemeente_id": "73110",
+        "gemeente_naam": "Bilzen-Hoeselt",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111A",
+        "deelgemeente_naam": "Tongeren",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111B",
+        "deelgemeente_naam": "Koninksem",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111C",
+        "deelgemeente_naam": "Neerrepen",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111D",
+        "deelgemeente_naam": "Riksingen",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111E",
+        "deelgemeente_naam": "Henis",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111F",
+        "deelgemeente_naam": "Berg",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111G",
+        "deelgemeente_naam": "Mal",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111H",
+        "deelgemeente_naam": "Sluizen",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111J",
+        "deelgemeente_naam": "Nerem",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111K",
+        "deelgemeente_naam": "Vreren",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111L",
+        "deelgemeente_naam": "Rutten",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111M",
+        "deelgemeente_naam": "Lauw",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111N",
+        "deelgemeente_naam": "Widooie",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111P",
+        "deelgemeente_naam": "Piringen",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111R",
+        "deelgemeente_naam": "Overrepen",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111S",
+        "deelgemeente_naam": "'s Herenelderen",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111T",
+        "deelgemeente_naam": "Haren",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111U",
+        "deelgemeente_naam": "Kolmont",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111V",
+        "deelgemeente_naam": "Diets-Heur",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
+        "provincie_id": "70000",
+        "provincie_naam": "Limburg"
+    },
+    {
+        "deelgemeente_id": "73111W",
         "deelgemeente_naam": "Borgloon",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009B",
+        "deelgemeente_id": "73111X",
         "deelgemeente_naam": "Kuttekoven",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009C",
+        "deelgemeente_id": "73111Y",
         "deelgemeente_naam": "Kerniel",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009D",
+        "deelgemeente_id": "73111Z",
         "deelgemeente_naam": "Gors-Opleeuw",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009E",
+        "deelgemeente_id": "73111I",
         "deelgemeente_naam": "Jesseren",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009F",
+        "deelgemeente_id": "73111O",
         "deelgemeente_naam": "Bommershoven",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009G",
+        "deelgemeente_id": "73111Q",
         "deelgemeente_naam": "Groot-Loon",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009H",
+        "deelgemeente_id": "73111AA",
         "deelgemeente_naam": "Broekom",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009J",
+        "deelgemeente_id": "73111AB",
         "deelgemeente_naam": "Hendrieken",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009K",
+        "deelgemeente_id": "73111AC",
         "deelgemeente_naam": "Voort",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009L",
+        "deelgemeente_id": "73111AD",
         "deelgemeente_naam": "Gotem",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009M",
+        "deelgemeente_id": "73111AE",
         "deelgemeente_naam": "Hoepertingen",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
     {
-        "deelgemeente_id": "73009N",
+        "deelgemeente_id": "73111AF",
         "deelgemeente_naam": "Rijkel",
-        "gemeente_id": "73009",
-        "gemeente_naam": "Borgloon",
+        "gemeente_id": "73111",
+        "gemeente_naam": "Tongeren-Borgloon",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
@@ -8556,86 +8788,6 @@
         "deelgemeente_naam": "Herstappe",
         "gemeente_id": "73028",
         "gemeente_naam": "Herstappe",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73032A",
-        "deelgemeente_naam": "Hoeselt",
-        "gemeente_id": "73032",
-        "gemeente_naam": "Hoeselt",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73032B",
-        "deelgemeente_naam": "Werm",
-        "gemeente_id": "73032",
-        "gemeente_naam": "Hoeselt",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73032C",
-        "deelgemeente_naam": "Romershoven",
-        "gemeente_id": "73032",
-        "gemeente_naam": "Hoeselt",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73032D",
-        "deelgemeente_naam": "Sint-Huibrechts-Hern",
-        "gemeente_id": "73032",
-        "gemeente_naam": "Hoeselt",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73032E",
-        "deelgemeente_naam": "Schalkhoven",
-        "gemeente_id": "73032",
-        "gemeente_naam": "Hoeselt",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73040A",
-        "deelgemeente_naam": "Kortessem",
-        "gemeente_id": "73040",
-        "gemeente_naam": "Kortessem",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73040B",
-        "deelgemeente_naam": "Wintershoven",
-        "gemeente_id": "73040",
-        "gemeente_naam": "Kortessem",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73040C",
-        "deelgemeente_naam": "Vliermaalroot",
-        "gemeente_id": "73040",
-        "gemeente_naam": "Kortessem",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73040D",
-        "deelgemeente_naam": "Vliermaal",
-        "gemeente_id": "73040",
-        "gemeente_naam": "Kortessem",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73040E",
-        "deelgemeente_naam": "Guigoven",
-        "gemeente_id": "73040",
-        "gemeente_naam": "Kortessem",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },
@@ -8756,158 +8908,6 @@
         "deelgemeente_naam": "Membruggen",
         "gemeente_id": "73066",
         "gemeente_naam": "Riemst",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083A",
-        "deelgemeente_naam": "Tongeren",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083B",
-        "deelgemeente_naam": "Koninksem",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083C",
-        "deelgemeente_naam": "Neerrepen",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083D",
-        "deelgemeente_naam": "Riksingen",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083E",
-        "deelgemeente_naam": "Henis",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083F",
-        "deelgemeente_naam": "Berg",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083G",
-        "deelgemeente_naam": "Mal",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083H",
-        "deelgemeente_naam": "Sluizen",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083J",
-        "deelgemeente_naam": "Nerem",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083K",
-        "deelgemeente_naam": "Vreren",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083L",
-        "deelgemeente_naam": "Rutten",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083M",
-        "deelgemeente_naam": "Lauw",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083N",
-        "deelgemeente_naam": "Widooie",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083P",
-        "deelgemeente_naam": "Piringen",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083R",
-        "deelgemeente_naam": "Overrepen",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083S",
-        "deelgemeente_naam": "'s Herenelderen",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083T",
-        "deelgemeente_naam": "Haren",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083U",
-        "deelgemeente_naam": "Kolmont",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
-        "provincie_id": "70000",
-        "provincie_naam": "Limburg"
-    },
-    {
-        "deelgemeente_id": "73083V",
-        "deelgemeente_naam": "Diets-Heur",
-        "gemeente_id": "73083",
-        "gemeente_naam": "Tongeren",
         "provincie_id": "70000",
         "provincie_naam": "Limburg"
     },

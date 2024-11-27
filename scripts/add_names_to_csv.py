@@ -4,35 +4,36 @@
 # installation.
 
 import csv
+from pathlib import Path
 
-from crabpy.client import crab_factory
+from crabpy.gateway.adressenregister import AdressenRegisterClient
+from crabpy.gateway.adressenregister import Gateway
 
-from crabpy.gateway.crab import CrabGateway
 
-crab = CrabGateway(crab_factory())
+# api_key can be None safely.
+# This is not a problem because getting provincie or gemeente does not do any calls
+client = AdressenRegisterClient(
+    base_url="https://api.basisregisters.vlaanderen.be",
+    api_key=None,
+)
+adressenregister = Gateway(client)
 
-FILENAME = '../data/csv/deelgemeenten.csv'
+_script_folder = Path().parent
+CSV_FILE_PATH = _script_folder.parent / "data" / "csv" / "deelgemeenten.csv"
 
-data = []
-with open(FILENAME, 'r', newline='') as csvfile:
-    reader= csv.DictReader(
-        csvfile,
-    )
-
+with CSV_FILE_PATH.open() as csvfile:
+    reader = csv.DictReader(csvfile)
     fieldnames = reader.fieldnames
-    for b in reader:
-        data.append(b)
+    data = list(reader)
 
 for d in data:
-    d['provincie_naam'] = crab.get_provincie_by_id(int(d['provincie_id'])).naam
-    d['gemeente_naam'] = crab.get_gemeente_by_niscode(int(d['gemeente_id'])).naam
+    if provincie := adressenregister.get_provincie_by_niscode(d["provincie_id"]):
+        d["provincie_naam"] = provincie.naam
+    if gemeente := adressenregister.get_gemeente_by_niscode(d["gemeente_id"]):
+        d["gemeente_naam"] = gemeente.naam()
 
-with open(FILENAME, 'w', newline='\n') as csvfile:
-    writer = csv.DictWriter(
-        csvfile,
-        fieldnames=fieldnames
-    )
-
+with CSV_FILE_PATH.open(mode="w", newline="\n") as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
     for d in data:
         writer.writerow(d)
